@@ -1,0 +1,22 @@
+- Talk about the need for time series
+- Difference between intapolation(regular regression) and extrapolation(time series)
+
+Time series general procedure(ARIMA):
+- Visualize time series data
+- Make time series data stationary
+- Plot the Correlation and AutoCorrelation Charts
+- Construct ARIMA model based on data
+- Use the model to make predictions
+
+
+
+IMPROVEMENTS:
+- add residuals for the arima and auto arima
+- Add metrics analysis to project.
+- use plotly for interactive plots.
+
+
+Why are all the focast vals the same?
+Sort out the arima model preditions later.
+ - Regress to the mean.
+ - too few data points.
